@@ -7,7 +7,7 @@ A house robbery system for Fivem
 - Supports ox_inventory
 - Supports ESX, QBCore, Qbox, Ox Core, and any custom frameworks
 
-Preview: https://youtu.be/HErP1xbOyoY
+Preview: https://youtu.be/21-V6CmHCfg
 <br>
 Documentation: https://docs.koziiscripts.com/free-scripts/kozii-houserobbery
 <br>
